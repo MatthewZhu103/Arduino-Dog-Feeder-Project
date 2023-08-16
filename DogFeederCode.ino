@@ -4,6 +4,9 @@
 #include <DS1307RTC.h>
 #include <IRremote.h>
 
+//github edit comment
+
+
 //Motor control pin
 #define motor 2
 
