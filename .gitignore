@@ -1,0 +1,5 @@
+#This is a hidden file
+
+#ignore all .txt files
+
+*.txt
